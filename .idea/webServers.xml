@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4267055-5e9f-4acf-980f-ef356412b1c5" name="adv-policy">
+        <fileTransfer rootFolder="/home/haonv/projects/adv-policy-learning" accessType="SFTP" host="192.168.1.11" port="22" sshConfigId="213f8939-d666-46e5-9014-37e01e125e4f" sshConfig="sever_comet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
